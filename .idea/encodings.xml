@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/abstractFactoryPattern/AbstractFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/abstractFactoryPattern/AbstractFactoryConsumer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/abstractFactoryPattern/BMWCar.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/abstractFactoryPattern/BYDCar.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/abstractFactoryPattern/Blue.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/abstractFactoryPattern/Car.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/abstractFactoryPattern/CarFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/abstractFactoryPattern/Color.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/abstractFactoryPattern/ColorFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/abstractFactoryPattern/FactoryProducer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/abstractFactoryPattern/Red.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/observerPattern/Fire.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/observerPattern/FireTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/observerPattern/FirstObserver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/observerPattern/Observer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/observerPattern/SecondObserver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/observerPattern/ThirdObserver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/producerComsumerPattern/ThirdMethod/ConsumerDemo2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/producerComsumerPattern/ThirdMethod/ConsumerThread2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/producerComsumerPattern/ThirdMethod/ProducerThread2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/producerComsumerPattern/ThirdMethod/Resource3.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/producerComsumerPattern/firstMethod/Consumer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/producerComsumerPattern/firstMethod/ConsumerDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/producerComsumerPattern/firstMethod/Producer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/producerComsumerPattern/firstMethod/Resource.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/producerComsumerPattern/fourthMethod/ConsumerDemo3.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/producerComsumerPattern/fourthMethod/SourceQueue.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/producerComsumerPattern/secondMethod/ConsumerDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/producerComsumerPattern/secondMethod/ConsumerThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/producerComsumerPattern/secondMethod/ProducerThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/producerComsumerPattern/secondMethod/Resource2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/proxyPattern/Image.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/proxyPattern/ImageConsumer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/proxyPattern/ProxyImage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/设计模式/proxyPattern/RealImage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/AbstractClassTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/China.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/InterfaceTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Nation.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/People.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Student.java" charset="UTF-8" />
+  </component>
+</project>
