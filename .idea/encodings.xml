@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/main/java/lamadaExpression/ILove.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lamadaExpression/Love.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lamadaExpression/LoveTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lamadaExpression/PrintAThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lamadaExpression/PrintCharAandB.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lamadaExpression/ThreadTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/多线程/Await_Signal_Example.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/多线程/Thread_await_signal.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/深拷贝和浅拷贝/DeepCopy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/深拷贝和浅拷贝/DeepCopy1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/深拷贝和浅拷贝/ShallowCopy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/深拷贝和浅拷贝/Student.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/深拷贝和浅拷贝/Student1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/深拷贝和浅拷贝/Student2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/深拷贝和浅拷贝/Teacher.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/深拷贝和浅拷贝/Teacher1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/深拷贝和浅拷贝/引用拷贝测试.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/自动装箱和自动拆箱/Test1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/自动装箱和自动拆箱/Test2.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/设计模式/abstractFactoryPattern/AbstractFactory.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/设计模式/abstractFactoryPattern/AbstractFactoryConsumer.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/设计模式/abstractFactoryPattern/BMWCar.java" charset="UTF-8" />
