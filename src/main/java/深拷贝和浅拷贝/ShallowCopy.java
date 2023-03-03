@@ -22,7 +22,7 @@ public class ShallowCopy {
         System.out.println(student1.getAge());
         System.out.println(student1.getTeacher().getName());
         System.out.println(student1.getTeacher().getAge());
-        System.out.println("修改老师的年龄");
+        System.out.println("修改老师的姓名");
         teacher.setName("wangwu");
         System.out.println(student.getTeacher().getName());
         System.out.println(student1.getTeacher().getName());

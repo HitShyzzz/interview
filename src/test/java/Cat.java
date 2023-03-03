@@ -6,5 +6,10 @@
  * @Description:
  */
 public class Cat extends Animal {
+    int a=100;
+    Integer i=a;
+    Integer b=90;
+    int c=b;
+
 
 }
