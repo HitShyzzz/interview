@@ -1,3 +1,4 @@
+
 /**
  * Created with IntelliJ IDEA.
  *
@@ -10,6 +11,4 @@ public class Cat extends Animal {
     Integer i=a;
     Integer b=90;
     int c=b;
-
-
 }

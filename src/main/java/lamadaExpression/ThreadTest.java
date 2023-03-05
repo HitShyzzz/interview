@@ -10,11 +10,11 @@ package lamadaExpression;
 public class ThreadTest {
     public static void main(String[] args) {
         PrintCharAandB print = new PrintCharAandB();
-        while (true){
-            new Thread(()->{
+        while (true) {
+            new Thread(() -> {
                 print.PrintA();
             }).start();
-            new Thread(()->{
+            new Thread(() -> {
                 print.PrintB();
             }).start();
         }

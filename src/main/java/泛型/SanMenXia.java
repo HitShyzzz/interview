@@ -1,4 +1,4 @@
-package ·ºÐÍ;
+package æ³›åž‹;
 
 /**
  * Created with IntelliJ IDEA.
