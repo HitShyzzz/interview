@@ -22,7 +22,20 @@
     <file url="file://$PROJECT_DIR$/src/main/java/多线程/YieldTest.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/守护线程/DemonThreadTest.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/守护线程/ThreadType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/并发/AQSTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/并发/CountDownLaunchTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/并发/CyclicVBarrierTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/并发/CyclicVBarrierTest1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/并发/CyclicVBarrierTest2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/并发/ParkAndInterruptTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/并发/ReentrantLockTest.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/并发/RefTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/并发/SemaphoreTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/并发/SyncTest1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/并发/SyncTest2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/并发/SyncTest3.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/并发/SyncTest4.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/并发/SyncTest5.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/并发/ThreadLocalTest.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/异常/Demo.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/异常/ExceptionTest.java" charset="UTF-8" />
@@ -95,6 +108,7 @@
     <file url="file://$PROJECT_DIR$/src/test/java/Nation.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/test/java/People.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/test/java/Student.java" charset="UTF-8" />
+    <file url="jar://$PROJECT_DIR$/../../jdk-18/lib/src.zip!/java.base/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" charset="UTF-8" />
     <file url="jar://$PROJECT_DIR$/../../jdk-18/lib/src.zip!/java.desktop/javax/swing/text/Segment.java" charset="UTF-8" />
   </component>
 </project>
